@@ -1,0 +1,24 @@
+h1 
+{ 
+    color: rgb(0,51,102); 
+}  
+h1 
+{ 
+    text-align: center;
+} 
+body 
+{ 
+    background-image: url(file:///C:/Users/Kevin%20M/Desktop/watson_studio/cloudstyle.png);
+} 
+h2  
+{ 
+    font-family: 'Arial Black', Times, serif;
+} 
+h2 
+{ 
+    border: 5px royalblue double;
+} 
+h1  
+{ 
+    box-shadow: 5px 3px 0px red;
+}
